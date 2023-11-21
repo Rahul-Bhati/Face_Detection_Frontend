@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Rahul-Bhati/Face_Detection_Frontend/static/css/main.0995778c.css",
+    "main.js": "/Rahul-Bhati/Face_Detection_Frontend/static/js/main.41d77e23.js",
+    "static/js/787.ad7a1cb5.chunk.js": "/Rahul-Bhati/Face_Detection_Frontend/static/js/787.ad7a1cb5.chunk.js",
+    "static/media/axios.cjs": "/Rahul-Bhati/Face_Detection_Frontend/static/media/axios.e7d77f0967a69d31d7fc.cjs",
+    "index.html": "/Rahul-Bhati/Face_Detection_Frontend/index.html",
+    "main.0995778c.css.map": "/Rahul-Bhati/Face_Detection_Frontend/static/css/main.0995778c.css.map",
+    "main.41d77e23.js.map": "/Rahul-Bhati/Face_Detection_Frontend/static/js/main.41d77e23.js.map",
+    "787.ad7a1cb5.chunk.js.map": "/Rahul-Bhati/Face_Detection_Frontend/static/js/787.ad7a1cb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0995778c.css",
+    "static/js/main.41d77e23.js"
+  ]
+}
